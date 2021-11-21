@@ -1,0 +1,1 @@
+create table test.table1 (id int, name varchar(10))
